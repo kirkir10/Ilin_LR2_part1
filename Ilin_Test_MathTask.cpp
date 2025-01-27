@@ -41,7 +41,7 @@ int main(){
     s.push_back(CUTE(testUserInput_Letter));
     s.push_back(CUTE(testUserInput_NegativeValue));
     ide_listener<> listener;
-    makeRunner(listener)(s, "All Rectangle Tests");
+    makeRunner(listener)(s, "All Rectanglefsdf Tests");
 
     return 0;
 }
