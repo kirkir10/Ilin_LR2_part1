@@ -22,7 +22,7 @@ int main() {
     }
     int width = stoi(str_input);    
     int RectangleArea = calculateRectangleArea(height, width);
-    cout << "Area of Rectangle is " << RectangleArea << endl;
+    cout << "Area of Rectangle is df" << RectangleArea << endl;
     }
     
 }
